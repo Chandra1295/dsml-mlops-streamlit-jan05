@@ -1,0 +1,15 @@
+artifact_uri: file:///home/csc/Documents/GitHub/dsml-mlops-streamlit-jan05/mlruns/209624488720310624/f2969ab0d71e4ccdaa5510e4b6bf0d54/artifacts
+end_time: 1705814593784
+entry_point_name: ''
+experiment_id: '209624488720310624'
+lifecycle_stage: active
+run_id: f2969ab0d71e4ccdaa5510e4b6bf0d54
+run_name: hyperparameter_run_7
+run_uuid: f2969ab0d71e4ccdaa5510e4b6bf0d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705814589336
+status: 3
+tags: []
+user_id: csc

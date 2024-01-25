@@ -1,0 +1,15 @@
+artifact_uri: file:///home/csc/Documents/GitHub/dsml-mlops-streamlit-jan05/mlruns/209624488720310624/ae311f0160504eff855240b36c155cce/artifacts
+end_time: 1705814231835
+entry_point_name: ''
+experiment_id: '209624488720310624'
+lifecycle_stage: active
+run_id: ae311f0160504eff855240b36c155cce
+run_name: resilient-moth-971
+run_uuid: ae311f0160504eff855240b36c155cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705814226765
+status: 3
+tags: []
+user_id: csc

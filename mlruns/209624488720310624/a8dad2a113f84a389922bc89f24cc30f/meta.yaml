@@ -1,0 +1,15 @@
+artifact_uri: file:///home/csc/Documents/GitHub/dsml-mlops-streamlit-jan05/mlruns/209624488720310624/a8dad2a113f84a389922bc89f24cc30f/artifacts
+end_time: 1705814127410
+entry_point_name: ''
+experiment_id: '209624488720310624'
+lifecycle_stage: active
+run_id: a8dad2a113f84a389922bc89f24cc30f
+run_name: unequaled-toad-812
+run_uuid: a8dad2a113f84a389922bc89f24cc30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705814120050
+status: 4
+tags: []
+user_id: csc

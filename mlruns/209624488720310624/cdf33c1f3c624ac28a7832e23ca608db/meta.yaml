@@ -1,0 +1,15 @@
+artifact_uri: file:///home/csc/Documents/GitHub/dsml-mlops-streamlit-jan05/mlruns/209624488720310624/cdf33c1f3c624ac28a7832e23ca608db/artifacts
+end_time: 1705814204842
+entry_point_name: ''
+experiment_id: '209624488720310624'
+lifecycle_stage: active
+run_id: cdf33c1f3c624ac28a7832e23ca608db
+run_name: peaceful-perch-557
+run_uuid: cdf33c1f3c624ac28a7832e23ca608db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705814200024
+status: 4
+tags: []
+user_id: csc
